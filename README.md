@@ -14,6 +14,3 @@ From the history, which keeps track of all tools and parameters one can use to a
 The workflow contains the dtasets and the pipeline of operations used for data analysis.
 This can be applied to a different dataset by just changing the input.
 
-## HOW CAN ONE UPLOAD DATA?
-
-Data can be imported via links or from the data library
